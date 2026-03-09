@@ -68,6 +68,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [PyRoomStudio](https://github.com/PyRoomStudio/PyRoomStudio) | An open-source Python GUI for 3D acoustic simulations | Python |
 | [pachyderm](https://www.orase.org/pachyderm) | A plugin for Rhinoceros 3D that provides a collection of numerical and geometrical simulation techniques | C# |
 | [GSound-SIR](https://github.com/yongyizang/GSound-SIR) | A Python Room Spatial Impulse Response Ray-Tracing Toolkit | C++ |
+| [MoD-ART](https://github.com/IoSR-Surrey/MoD-ART) | Build acoustic radiance transfer (ART) models and analyze their modal decomposition (MoD-ART) | Python |
 
 
 ## Environment
